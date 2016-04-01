@@ -59,7 +59,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #e08283;
+    background-color: #C14E4E;
 
 }
 
@@ -249,6 +249,8 @@ header .header-content .header-content-inner p {
         margin-left: auto;
         max-width: 1000px;
         font-size: 18px;
+        letter-spacing: 2px;
+
     }
 }
 
